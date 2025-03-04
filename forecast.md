@@ -2,7 +2,7 @@
 
 ## Today
 
-Cloud with a chance of pizza
+Cloudy with a chance of rain
 
 ## Tomorrow
 
